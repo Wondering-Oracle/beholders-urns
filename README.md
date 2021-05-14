@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Beholder's Urns
 
-## Setup
+This mod adds a couple urns that are like barrels, but are made from non-wood materials.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+As of 0.1.0, Quartz Urns and Stone Brick Urns are added.
