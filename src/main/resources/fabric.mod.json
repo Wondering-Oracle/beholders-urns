@@ -3,27 +3,27 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Beholder's Urns",
+  "description": "This mod adds a couple urns that are like barrels, but are made from non-wood materials.",
   "authors": [
-    "Me!"
+    "Wondering-Oracle"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Wondering-Oracle/beholders-urns",
+    "sources": "https://github.com/Wondering-Oracle/beholders-urns"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/beholdersurns/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.silicateseer.beholdersurns.BeholdersUrns"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "beholdersurns.mixins.json"
   ],
 
   "depends": {

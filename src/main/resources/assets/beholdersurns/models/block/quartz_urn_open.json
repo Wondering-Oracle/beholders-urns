@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "beholdersurns:block/quartz_urn_top_open",
+    "bottom": "beholdersurns:block/quartz_urn_bottom",
+    "side": "beholdersurns:block/quartz_urn_side"
+  }
+}
